@@ -1,4 +1,5 @@
 <project>
 
-	<groupId> </groupId>
+	<groupId>com.flipkart</groupId>
+	<artifactId>flipkart</artifactId>
 </project>
